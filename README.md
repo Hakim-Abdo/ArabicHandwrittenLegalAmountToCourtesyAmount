@@ -13,7 +13,7 @@ This project has been trained and tested on .
 ## Workflow
 
 The project works in three phases.
-![ui app.png](https://github.com/Hakim-Abdo/ArabicHandwrittenLegalAmountToCourtesyAmount/ui_app.png)
+![ui app.png](ui_app.png)
 
 ### [Legal Word Detection](Training/YOLOv5/)
 
